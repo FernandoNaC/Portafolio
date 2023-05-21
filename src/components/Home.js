@@ -10,7 +10,7 @@ const Home = () => {
             <div className='animate-character'>¡Bienvenidos!</div>
             <div className='cv-start'>
               <h1>MI PERFIL</h1>
-              <p>Estudiante de 6º semestre de la carrera
+              <p>Estudiante de 7º semestre de la carrera
               de ingeniería, con conocimientos en programación, incluyendo: bases de datos, front
               end, back-end entre otros. Con disposición por seguir aprendiendo y trabajar.
               </p>

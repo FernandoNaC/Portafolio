@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400&display=swap');
+
+.softSkills {
+  display: flex;
+  position: relative;
+  margin-top: 50px;
+  margin-left: 90px;
+  color: white;
+}
+
+.softSkills h1{
+  color: rgb(35, 163, 236);
+  font-size: 50px;
+}
+
+body{
+  font-family: 'Roboto Slab', serif;
+  background: linear-gradient(275deg, rgb(43, 40, 46), black);
+}
